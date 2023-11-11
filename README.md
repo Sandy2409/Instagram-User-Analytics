@@ -1,2 +1,1 @@
-# Instagram-User-Analytics
-Data driven analysis of instagram users
+The project "Instagram User Analytics" focuses on analyzing a dataset from Instagram to gain insights and answer specific questions related to user behavior, posts, hashtags, and registration patterns. The goal is to extract meaningful information from the data to understand user demographics,posting habits, popular hashtags, and other relevant metrics. By performing various SQL queries on the dataset, we aim to derive valuable insights that can aid decision-making and provide a better understanding of user engagement on the platform.
